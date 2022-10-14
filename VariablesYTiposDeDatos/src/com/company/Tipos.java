@@ -24,7 +24,7 @@ public class Tipos {
     }
 
     //caracter
-    char caracter1 = 'a' //Admiten solo un caracter
+    char caracter1 = 'a'; //Admiten solo un caracter
 
     //boolean
     boolean verdadero = true;
