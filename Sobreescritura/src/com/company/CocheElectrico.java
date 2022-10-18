@@ -18,6 +18,7 @@ public class CocheElectrico extends Coche{
 
     @Override
     public void acelerar(Integer cantidad) {
+        Integer cantidadAjustada = cantidad * 2;
         super.acelerar(cantidad);
     }
 
